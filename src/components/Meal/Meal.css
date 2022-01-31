@@ -1,0 +1,5 @@
+.meal-name:hover{
+    color: #007FFF;
+    cursor: pointer;
+    transform: translateY(-3px);
+}
